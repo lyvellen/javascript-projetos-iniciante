@@ -4,3 +4,5 @@ Dando os primeiros passos na linguagem através de uma série de jogos que traba
 
 
 PONG: Utilizando a P5.js foi desenvolvido um jogo multiplayer de pong, com trilha sonora, sons da raquetada e um placar. 
+
+SEGREDO: Utilizando conceitos de arrays e laços de repeteições, o usuário precisa advinhar o número gerado aleatóriamente pelo programa. 
